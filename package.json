@@ -5,7 +5,8 @@
   "main": "dist",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "ts-node-dev --respawn -T -r tsconfig-paths/register src/main.ts"
+    "dev": "ts-node-dev --respawn -T -r tsconfig-paths/register src/main.ts",
+    "fetch": "sh scripts/git-fetch.sh"
   },
   "repository": {
     "type": "git",
