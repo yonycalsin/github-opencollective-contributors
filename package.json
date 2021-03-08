@@ -1,0 +1,24 @@
+{
+  "name": "github-opencollective-contributors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yonycalsin/github-opencollective-contributors.git"
+  },
+  "keywords": [
+    "github-contributors",
+    "opencollective-contributors-image",
+    "gh-contributors-action"
+  ],
+  "author": "Yony Calsin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yonycalsin/github-opencollective-contributors/issues"
+  },
+  "homepage": "https://github.com/yonycalsin/github-opencollective-contributors#readme"
+}
